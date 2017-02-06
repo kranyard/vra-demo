@@ -51,7 +51,7 @@ components:
       max_volumes: {}
       memory:
         default: 512
-        max: 4096
+        max: 8192
         min: 512
       provisioning_workflow:
         fixed:
