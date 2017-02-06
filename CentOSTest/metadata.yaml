@@ -1,7 +1,0 @@
-name: "Demo package"
-productVersion: "7.2.0-SNAPSHOT"
-data:
-- locator: "composite-blueprint/CentOSTest.yaml"
-  name: "CentOS Test"
-  description: "CentOS Test"
-exportTime: "2017-02-06T13:06:22.906Z"
