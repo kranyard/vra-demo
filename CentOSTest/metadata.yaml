@@ -4,4 +4,4 @@ data:
 - locator: "composite-blueprint/CentOSTest.yaml"
   name: "CentOS Test"
   description: "CentOS Test"
-exportTime: "2017-02-06T12:35:38.297Z"
+exportTime: "2017-02-06T12:37:07.333Z"
