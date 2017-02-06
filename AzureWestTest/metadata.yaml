@@ -1,0 +1,7 @@
+name: "Demo package"
+productVersion: "7.2.0-SNAPSHOT"
+data:
+- locator: "composite-blueprint/AzureWestTest.yaml"
+  name: "Azure West Test"
+  description: "Azure West Test"
+exportTime: "2017-02-06T12:39:03.292Z"
