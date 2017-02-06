@@ -1,0 +1,7 @@
+name: "Demo package"
+productVersion: "7.2.0-SNAPSHOT"
+data:
+- locator: "composite-blueprint/CentOSxyz.yaml"
+  name: "CentOSxyz"
+  description: "CentOSxyz"
+exportTime: "2017-02-06T13:16:59.126Z"
