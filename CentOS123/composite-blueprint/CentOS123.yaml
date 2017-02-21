@@ -50,9 +50,9 @@ components:
       max_network_adapters: {}
       max_volumes: {}
       memory:
-        default: 512
+        default: 2048
         max: 8192
-        min: 512
+        min: 2048
       provisioning_workflow:
         fixed:
           id: CloneWorkflow
